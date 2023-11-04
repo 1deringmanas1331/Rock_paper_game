@@ -1,6 +1,7 @@
 import random
 
 def get_user_choice():
+    #Ask the user to choose between rock,paper and scissor
     while True:
         user_choice = input("Choose Rock, Paper, or Scissors: ").strip().capitalize()
         if user_choice in ["Rock", "Paper", "Scissors"]:
