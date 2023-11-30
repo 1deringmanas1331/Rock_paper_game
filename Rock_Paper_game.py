@@ -1,4 +1,4 @@
-# Import the random library
+# Import the Random library
 import random
 
 def get_user_choice():
