@@ -1,3 +1,4 @@
+# Import the random 
 import random
 
 def get_user_choice():
