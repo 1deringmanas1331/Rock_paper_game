@@ -1,7 +1,7 @@
 # Import the Random Library
 import random
 
-# Define a Funtion to take user's choice
+# Define a Function to take user's choice
 def get_user_choice():
     # Asks the user to choose between rock ,paper and scissor
     while True:
