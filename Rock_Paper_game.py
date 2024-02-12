@@ -10,6 +10,7 @@ def get_user_choice():
             return user_choice
         else:
             print("Invalid choice. Please choose Rock, Paper, or Scissors.")
+            
     # Takes the computer's choice
 def get_computer_choice():
     choices = ["Rock", "Paper", "Scissors"]
