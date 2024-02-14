@@ -16,7 +16,7 @@ def get_computer_choice():
     choices = ["Rock", "Paper", "Scissors"]
     return random.choice(choices)
 
-# Function to decide who is the winner
+# Function to decide who is the winner or if it is a tie or if computer wins(you lose)
 def determine_winner(user_choice, computer_choice):
     if user_choice == computer_choice:
         return "It's a tie!"
