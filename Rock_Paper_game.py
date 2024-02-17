@@ -1,5 +1,5 @@
 # Import the Random Library
-import random
+import random 
 
 # Define a Function to take user's choice
 def get_user_choice():
